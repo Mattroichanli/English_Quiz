@@ -1,0 +1,13 @@
+D:\Tài liệu học\Lập trình mạng căn bản\New folder\Client_NMM\Client_NMM\bin\Debug\Client_NMM.exe.config
+D:\Tài liệu học\Lập trình mạng căn bản\New folder\Client_NMM\Client_NMM\bin\Debug\Client_NMM.exe
+D:\Tài liệu học\Lập trình mạng căn bản\New folder\Client_NMM\Client_NMM\bin\Debug\Client_NMM.pdb
+D:\Tài liệu học\Lập trình mạng căn bản\New folder\Client_NMM\Client_NMM\obj\Debug\Client_NMM.csproj.AssemblyReference.cache
+D:\Tài liệu học\Lập trình mạng căn bản\New folder\Client_NMM\Client_NMM\obj\Debug\Client_NMM.csproj.SuggestedBindingRedirects.cache
+D:\Tài liệu học\Lập trình mạng căn bản\New folder\Client_NMM\Client_NMM\obj\Debug\Client_NMM.Form1.resources
+D:\Tài liệu học\Lập trình mạng căn bản\New folder\Client_NMM\Client_NMM\obj\Debug\Client_NMM.Properties.Resources.resources
+D:\Tài liệu học\Lập trình mạng căn bản\New folder\Client_NMM\Client_NMM\obj\Debug\Client_NMM.csproj.GenerateResource.cache
+D:\Tài liệu học\Lập trình mạng căn bản\New folder\Client_NMM\Client_NMM\obj\Debug\Client_NMM.csproj.CoreCompileInputs.cache
+D:\Tài liệu học\Lập trình mạng căn bản\New folder\Client_NMM\Client_NMM\obj\Debug\Client_NMM.exe
+D:\Tài liệu học\Lập trình mạng căn bản\New folder\Client_NMM\Client_NMM\obj\Debug\Client_NMM.pdb
+D:\Tài liệu học\Lập trình mạng căn bản\New folder\Client_NMM\Client_NMM\obj\Debug\Client_NMM.LogIn.resources
+D:\Tài liệu học\Lập trình mạng căn bản\New folder\Client_NMM\Client_NMM\obj\Debug\Client_NMM.SignIn.resources

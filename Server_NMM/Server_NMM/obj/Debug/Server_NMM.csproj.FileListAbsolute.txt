@@ -1,0 +1,11 @@
+D:\Tài liệu học\Lập trình mạng căn bản\New folder\Server_NMM\Server_NMM\bin\Debug\Server_NMM.exe.config
+D:\Tài liệu học\Lập trình mạng căn bản\New folder\Server_NMM\Server_NMM\bin\Debug\Server_NMM.exe
+D:\Tài liệu học\Lập trình mạng căn bản\New folder\Server_NMM\Server_NMM\bin\Debug\Server_NMM.pdb
+D:\Tài liệu học\Lập trình mạng căn bản\New folder\Server_NMM\Server_NMM\obj\Debug\Server_NMM.csproj.AssemblyReference.cache
+D:\Tài liệu học\Lập trình mạng căn bản\New folder\Server_NMM\Server_NMM\obj\Debug\Server_NMM.csproj.SuggestedBindingRedirects.cache
+D:\Tài liệu học\Lập trình mạng căn bản\New folder\Server_NMM\Server_NMM\obj\Debug\Server_NMM.Properties.Resources.resources
+D:\Tài liệu học\Lập trình mạng căn bản\New folder\Server_NMM\Server_NMM\obj\Debug\Server_NMM.csproj.GenerateResource.cache
+D:\Tài liệu học\Lập trình mạng căn bản\New folder\Server_NMM\Server_NMM\obj\Debug\Server_NMM.csproj.CoreCompileInputs.cache
+D:\Tài liệu học\Lập trình mạng căn bản\New folder\Server_NMM\Server_NMM\obj\Debug\Server_NMM.exe
+D:\Tài liệu học\Lập trình mạng căn bản\New folder\Server_NMM\Server_NMM\obj\Debug\Server_NMM.pdb
+D:\Tài liệu học\Lập trình mạng căn bản\New folder\Server_NMM\Server_NMM\obj\Debug\Server_NMM.Form1.resources
